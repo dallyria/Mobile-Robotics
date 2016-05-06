@@ -1,0 +1,8 @@
+The main program is 'Find_SeveralSplines.m'. You can define the paths points in Matrix 'Poi' as a sample is already defined in the code. You can also choose the order of SP-line you would like to fit on the desired points by 'ndegree'. This m-file will generate 5 function to enforce velocity constraints in curve fitting optimization problem.
+'SPline_Objective' is the objective function of our curve fitting problem. This optimization problem is constrained to 'WMR_constraints.m' function.
+
+Please let me know if you have any trouble working with this program.
+
+
+Mohammadali Shahriari
+mshahria@uoguelph.ca
