@@ -1,6 +1,34 @@
 Copyright (c) 2013, Mohammadali Shahriari
 All rights reserved.
 
+** If you use this code you need to cite one of the followings (based on the part you used):
+
+@phdthesis{shahriari2013design,
+  title={Design, Implementation and Control of a Hexapod Robot Using Reinforcement Learning Approach},
+  author={Shahriari, Mohammadali and Khayyat, Amir A},
+  year={2013},
+  school={Sharif University of Technology}
+}
+
+@inproceedings{mohammadali2014kinematic,
+  title={Kinematic and Gait Analysis Implementation of an Experimental Radially Symmetric Six-Legged Walking Robot},
+  author={Mohammadali Shahriari, Kambiz Ghaemi Osguie},
+  booktitle={The 6th RoboCup IranOpen International Symposium and the 4th joint conference of AI \& Robotics},
+  pages={78--82},
+  year={2014},
+  organization={IranOpen 2014}
+}
+
+
+@article{shahriari2013gait,
+  title={Gait analysis of a six-legged walking robot using fuzzy reward reinforcement learning},
+  author={Shahriari, Mohammadali and Khayyat, Amir A},
+  journal={Fuzzy Systems (IFSC), 2013 13th Iranian Conference on. IEEE},
+  pages={1--4},
+  year={2013}
+}
+
+
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
     * Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
